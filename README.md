@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Diptangshu Debnath 👋
 
-<!--
-**ddebnath11/ddebnath11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Developer and UI/UX Designer who values clean architecture, solid fundamentals, and thoughtful, grid-based interfaces. I enjoy bridging the gap between raw code and visual design to build high-performance web experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+
+* **💻 Currently Building:** A complete, high-performance website redesign for **United Media Services LLC** from scratch, leveraging the speed of **Astro** and the utility of **Tailwind CSS**.
+* **🌱 Currently Learning:** Advanced component patterns in Astro, server-side performance optimization, and refined typography systems.
+* **📫 How to Reach Me:** (https://www.linkedin.com/in/diptangshu-debnath-362326273/)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend & Frameworks** | Astro, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3 |
+| **Design & UI/UX** | Figma, Grid Systems, Interface Typography, Monogram & Identity Design |
+| **Version Control & Workflow** | Git, GitHub |
+
+---
+
+### ⚡ Fun Fact
+My favourite film is Terminator 2: Judgement Day.
