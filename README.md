@@ -9,26 +9,10 @@ I am a Developer and UI/UX Designer based in Kolkata, India, who values clean ar
 - **How to Reach Me:** (https://www.linkedin.com/in/diptangshu-debnath-362326273/)
 
 ## Currently Building
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th align="center">Repository</th>
-    <th align="center">Live Site</th>
-  </tr>
-  <tr>
-    <td><b>UMS Oman</b></td>
-    <td>Brand-new website for United Media Services LLC, Oman using a modern lightweight tech-stack.</td>
-    <td align="center"><a href="https://github.com/ddebnath11/ums">📦 Code</a></td>
-    <td align="center"><a href="https://umsoman.netlify.app/">View</a></td>
-  </tr>
-  <tr>
-    <td><b>My Portfolio</b></td>
-    <td>My very own personal website.</td>
-    <td align="center"><a href="https://github.com/ddebnath11/portfolio">📦 Code</a></td>
-    <td align="center"><a href="https://your-portfolio-link.com](https://ddebnath.netlify.app/">View</a></td>
-  </tr>
-</table>
+| Project | Type | What is it? | Source | Deployment |
+| :--- | :---: | :--- | :---: | :---: |
+| 💼 **UMS Oman** | Corporate | Brand-new lightweight web platform for United Media Services LLC, Oman. | [Code ↗](https://github.com/ddebnath11/ums) | [Launch 🚀](https://umsoman.netlify.netlify.app/) |
+| 🧑‍💻 **My Portfolio** | Personal | My personal digital sandbox and portfolio website. | [Code ↗](https://github.com/ddebnath11/portfolio) | [Launch 🚀](https://ddebnath.netlify.app/) |
 
 ---
 
